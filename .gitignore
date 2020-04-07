@@ -1,0 +1,5 @@
+/node_modules
+src/utils
+src/database/db.sqlite
+src/database/knex-help.txt
+modelDescripton.json
